@@ -1,2 +1,1 @@
-Login Feature Coming soon.
-Get ready
+Login Feature Coming soon
